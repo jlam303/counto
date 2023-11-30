@@ -1,3 +1,7 @@
+# Counts
+
+Whenever this page is refreshed or visited on your local client the count wil go up by 1.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
